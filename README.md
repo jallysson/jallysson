@@ -3,7 +3,7 @@
 - 👨‍💻 Atualmente trabalho na <a href="https://www.stone.com.br/" target="_blank">Stone</a>
 - 👨‍🎓 Mestre em Ciências pela <a href="http://ppgsi.each.usp.br/" target="_blank">Universidade de São Paulo (USP)</a>
 
-##
+<!-- ##
 
 ### Minhs habilidades:
 <div style="display: inline_block">
@@ -13,7 +13,7 @@
   <img align="center" alt="jallysson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="jallysson-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="jallysson-SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-</div>
+</div> -->
 
 ##
 
